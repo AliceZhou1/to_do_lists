@@ -3,8 +3,6 @@
 使用c++ + qt实现的待办软件，
 
 <img title="" src="./todolists.png" alt="" data-align="inline">
-=======
-![](E:\课程学习\wps\wpsss\week07\todolists.png)
 
 功能：
 
